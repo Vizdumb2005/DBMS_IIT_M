@@ -1,1 +1,4 @@
-þÜ©z)©¢»g{M{B¢wâƒ÷(žËg{B¢wâ
+/** @type {import('next').NextConfig} */
+const nextConfig = {};
+
+export default nextConfig;

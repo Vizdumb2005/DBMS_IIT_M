@@ -1,1 +1,21 @@
-±È^™¨m¶›?şè¬…§\Ê&şÇ!zf£²‰ì·)^ì>ÊŠä®Ç-®ç­³k¹ëZŠ\"×(ø rË,­ÏÚ¦Ÿà–†Ú–Ç,±¶¬x*%¢»%j×œ²ÅZ®&›•ë-®ç©­çâÅ©bjÇ¬r‰©¢w§¶ÏÜ¢jhéí²ëb–Ïå‰¿î¶)lº/Ü¢jhéí³û¢–&ÿ–&á¢‰,ş(’
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "style": "new-york",
+  "rsc": true,
+  "tsx": true,
+  "tailwind": {
+    "config": "",
+    "css": "app/globals.css",
+    "baseColor": "neutral",
+    "cssVariables": true,
+    "prefix": ""
+  },
+  "aliases": {
+    "components": "@/components",
+    "utils": "@/lib/utils",
+    "ui": "@/components/ui",
+    "lib": "@/lib",
+    "hooks": "@/hooks"
+  },
+  "iconLibrary": "lucide"
+}

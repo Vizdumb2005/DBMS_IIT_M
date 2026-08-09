@@ -1,2 +1,27 @@
-r‰©ŠW«:›b¢{-j¸´D¶Ó^å‰·h™Ú&Š×«i¹^zÉŞÆÖ¥–Œ	²ÚîzÉ"¤¸›
-œ’ÚîzËk‰Ëm®ç§ I¢¶Úîyë¡Û¥x‰ízº)¶»š‡n•ç¬ìmš‡n•ä^²‰n¶*'néİ•êëzÊ%½âl¢s(vé^¶»ŠÊ%j×2‡n•ë-®ç£³kzÇ«½è§r·¦z{Z–Úîz™n‚)ì©ìm¥«a³ÿì­ÏâÉnuéŞÆß÷m³ûlşÛ1ìmşÜ©zÏÿ¶Ç±r[zz{ù¨vé^
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "exclude": ["node_modules"]
+}

@@ -1,1 +1,40 @@
-©u¹¬ú«¢Ïí¾¦·©½êìŠ‰ô×JkŠö­zÚîzÇ+Š›luëç{]zöîŠWg{[º)]²Ö«¶w±¶ËZ®ÙbÙŞÆÙb×^¥éİzw"zÊÚv,~º/ëy§-úV›z]µÖ¶‹®‹úŞiË~¦º ­ë,×]kiØ±úè¿­æœ·ë®‰eùªŞk]¶­§bÇë¢ş·šrß¬zWœ·mx­§bÇë¢ş·šrß¬z–«jÚ+×]kiØ±úè¿­æœ·ë%¢İuÖ¶‹®‹úŞiË~³­ruÚ¶‹®‹úŞiË~µ¦ì×]œ•«,úö«‰©Ü{æ®¶+ŠÜ´ïW%³µÖ[œ‰×¾­æœ·N4ÓIŞÆİyÓIŞÆß­…é³Mô­æœ·_tÒ·šrß¢m}ÓK(w«×-j)pŠw~™êà{ntÎë-jwyÓg^¼7©zw^È²Ö¢—§uË,şš,µË,ãM-Ê—¬şz{m4ÒÜ©zÏëy§-×İ4·*^³úŞiË~v‰µ÷M-j)pŠw\²Î4ÒÜ©zÇ+Š›yÓ
+{
+  "name": "dbms-iit-m",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@radix-ui/react-label": "^2.1.1",
+    "@radix-ui/react-progress": "^1.1.1",
+    "@radix-ui/react-scroll-area": "^1.2.2",
+    "@radix-ui/react-select": "^2.1.4",
+    "@radix-ui/react-separator": "^1.1.1",
+    "@radix-ui/react-slot": "^1.1.1",
+    "@radix-ui/react-switch": "^1.1.2",
+    "@radix-ui/react-tabs": "^1.1.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.469.0",
+    "next": "^15.1.4",
+    "next-themes": "^0.4.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "sonner": "^1.7.1",
+    "tailwind-merge": "^2.6.0",
+    "zustand": "^5.0.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^22.10.5",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.2"
+  }
+}
